@@ -30,6 +30,7 @@ int main()
         printf("X1 = %.4lf\n", x1);
         printf("X2 = %.4lf\n", x2);
     }
+    
 
 return 0;
 }
