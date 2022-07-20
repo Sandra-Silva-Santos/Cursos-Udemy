@@ -22,8 +22,5 @@ escreval("Idade = ", idade)
 escreval("Salario 1 = " , salario1:8:2)
 escreval("Salario 2 = " , salario2:8:2)
       
-
-      
-
-
+   
 Fimalgoritmo
