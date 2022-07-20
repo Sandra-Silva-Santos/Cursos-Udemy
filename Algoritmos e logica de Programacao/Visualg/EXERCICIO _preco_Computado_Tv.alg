@@ -31,7 +31,6 @@ Inicio
       escreva("Genero ", genero)
       
       
-      
 
 
 Fimalgoritmo
