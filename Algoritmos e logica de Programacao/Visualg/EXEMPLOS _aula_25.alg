@@ -20,7 +20,6 @@ escreval(b)
 escreval(c)
 escreval(d)
 
-      
-
+    
 
 Fimalgoritmo
