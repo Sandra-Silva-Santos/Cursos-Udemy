@@ -14,7 +14,7 @@ Inicio
     leia(N)
 
     para i de 0 ate N-1 faca
-        escreval("Digite nome, primeira e segunda nota do ", i+1, "บ aluno:")
+        escreval("Digite nome, primeira e segunda nota do ", i+1, "ยบ aluno:")
         leia(nomes[i])
         leia(notas1[i])
         leia(notas2[i])
@@ -27,5 +27,6 @@ Inicio
             escreval(nomes[i])
         fimse
     fimpara
+    
 
 Fimalgoritmo
